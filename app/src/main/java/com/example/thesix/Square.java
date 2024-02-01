@@ -1,2 +1,4 @@
-package com.example.thesix;public class Square {
+package com.example.thesix;
+
+public class Square extends Shape{
 }
