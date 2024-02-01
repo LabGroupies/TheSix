@@ -1,4 +1,4 @@
 package com.example.thesix;
 public class Shape {
-  String color = "Red";
+  String color = "Black"; //Arjun's color
 }
