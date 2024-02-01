@@ -1,4 +1,5 @@
 package com.example.thesix;
-public class Shape {
+public abstract class Shape {
+  int x,y;
   String color = "Red";
 }
