@@ -1,3 +1,3 @@
 package com.example.thesix;public class Shape {
-    String color = "blue";
+  String color = "Red";
 }
