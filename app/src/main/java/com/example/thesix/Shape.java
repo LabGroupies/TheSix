@@ -1,3 +1,4 @@
-package com.example.thesix;public class Shape {
-    String color = "Black";
+package com.example.thesix;
+public class Shape {
+  String color = "Red";
 }
